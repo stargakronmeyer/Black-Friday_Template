@@ -307,6 +307,12 @@ input{
         height:350vh;
     }
 
+    .card h1{
+        color:#1A161F;
+        font-size: 22px;
+      
+    }
+
 }
 
 
