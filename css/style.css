@@ -307,12 +307,16 @@ input{
         height:350vh;
     }
 
+    
+
+}
+
+@media (max-width:100px){
     .card h1{
         color:#1A161F;
-        font-size: 22px;
+        font-size: 10px;
       
     }
-
 }
 
 
